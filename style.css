@@ -1,0 +1,26 @@
+  
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+  .copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+    line-height: 3;
+
+  }
+
+  canvas{
+    border: 5px solid white;
+    border-radius: 50px;
+    margin-top: 160px;
+    box-shadow: 5px 5px 5px gray;
+    background-color: grey;
+
+
+  }
+ 
